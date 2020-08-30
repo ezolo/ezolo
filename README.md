@@ -34,4 +34,4 @@ My name's Eva! Welcome to my humble abode in the Digital World. Feel free to con
 >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezolo&layout&theme=algolia)](https://github.com/ezolo/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=ezolo&color=blue)
+![](https://komarev.com/ghpvc/?username=ezolo&color=yellow)

@@ -3,7 +3,7 @@
 My name's Eva! Welcome to my humble abode in the Digital World. Feel free to connect with me here:
 
 <img src = "https://img.shields.io/badge/evazolotarev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src = "https://www.linkedin.com/in/eva-zolotarev/evazolotarev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src = "https://www.linkedin.com/in/eva-zolotarev//evazolotarev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ## ⚡️ Technologies 
 

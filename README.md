@@ -2,7 +2,9 @@
 
 My name's Eva! Welcome to my humble abode in the Digital World. Feel free to connect with me here:
 
-<img src = "https://img.shields.io/badge/evazolotarev-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/eva-zolotarev">
+  <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Linkedin   -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ## ⚡️ Technologies 
 

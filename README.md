@@ -28,6 +28,5 @@ My name's Eva! Welcome to my humble abode in the Digital World. Feel free to con
 <img src = "https://img.shields.io/badge/eclipse%20-%232C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white" />
 <img src = "https://img.shields.io/badge/visualstudio%20-%235C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" />
 <img src = "https://img.shields.io/badge/splunk%20-%23000000.svg?&style=for-the-badge&logo=splunk&logoColor=white" />
-
 >
-
+![Eva's github stats](https://github-readme-stats.vercel.app/api?username=ezolo&theme=algolia&show_icons=true)

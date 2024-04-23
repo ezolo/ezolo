@@ -24,7 +24,7 @@ My name's Eva! Welcome to my humble abode in the Digital World. Feel free to con
 <img src = "https://img.shields.io/badge/xcode%20-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" />
 <img src = "https://img.shields.io/badge/BitBucket%20-%230052CC.svg?&style=for-the-badge&logo=bitbucket&logoColor=white" />
 <img src = "https://img.shields.io/badge/jira%20-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Collibra-00C58E?logo=Collibra&logoColor=black" />
+<img src="https://img.shields.io/badge/Collibra-00C58E.svg?&style=for-the-badge&logo=Collibra&logoColor=black" />
 <img src = "https://img.shields.io/badge/eclipse%20-%232C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white" />
 <img src = "https://img.shields.io/badge/visualstudio%20-%235C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" />
 <img src = "https://img.shields.io/badge/splunk%20-%23000000.svg?&style=for-the-badge&logo=splunk&logoColor=white" />

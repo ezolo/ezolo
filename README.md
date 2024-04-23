@@ -28,7 +28,7 @@ My name's Eva! Welcome to my humble abode in the Digital World. Feel free to con
 <img src = "https://img.shields.io/badge/eclipse%20-%232C2255.svg?&style=for-the-badge&logo=eclipse&logoColor=white" />
 <img src = "https://img.shields.io/badge/visualstudio%20-%235C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white" />
 <img src = "https://img.shields.io/badge/splunk%20-%23000000.svg?&style=for-the-badge&logo=splunk&logoColor=white" />
->
-<a href="https://github.com/ezolo"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezolo&theme=algolia&show_icons=buefy&hide_border=true&include_all_commits=true" alt="Eva's Github Stats" /></a> <a href="https://github.com/ezolo">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezolo&theme=algolia&show_icons" alt="Eva's Top Langs" /> 
 
+<a href="https://github.com/ezolo"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezolo&theme=algolia&show_icons=buefy&hide_border=true&include_all_commits=true" alt="Eva's Github Stats" /></a> <a href="https://github.com/ezolo">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezolo&theme=algolia&show_icons" alt="Eva's Top Langs" />
 
+![](https://komarev.com/ghpvc/?username=ezolo&color=blue)

@@ -18,6 +18,7 @@ My name's Eva! Welcome to my humble abode in the Digital World. Feel free to con
 <img src = "https://img.shields.io/badge/jenkins%20-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src = "https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src = "https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/UNIX-121011.svg?&style=for-the-badge&logo=unix&logoColor=white" />
 <img src = "https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src = "https://img.shields.io/badge/xcode%20-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" />
 <img src = "https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
